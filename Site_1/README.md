@@ -7,6 +7,7 @@ Primeira atividade de WEB do terceiro período do Técnico em Informática do IF
 
 -Bootstrap
 -HTML
+-XAMPP
 
 
 
